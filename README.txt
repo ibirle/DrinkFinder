@@ -5,7 +5,7 @@ This project is a website designed to help find alcoholic beverages. I worked on
 Skills Exhibited:
 -Python
 -Flask
--Linux Systems
+-Unix Systems
 -API Handeling
 
 How It Works:
