@@ -1,4 +1,4 @@
-Try it Out: BeerMaid.me
+Try it Out: BeerMaid.me **Currently not being hosted**
 Intro:
 This project is a website designed to help find alcoholic beverages. I worked on this project as part of Hack Umass, a weekend hackathon. I worked with two other people and my job was background api handling and web hosting while others worked on the html and css. 
 
